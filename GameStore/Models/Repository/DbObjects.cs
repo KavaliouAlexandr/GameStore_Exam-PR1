@@ -15,7 +15,7 @@ namespace GameStore.Models.Repository
                 {
                     new Game
                     {
-                        GameId = 1,
+                        GameId = 12,
                         Name = "SimCity",
                         Description = "Symulator budowania miasta powraca! Spersonalizuj miasto swoich marzeń.",
                         Category = "Symulator",
@@ -23,7 +23,7 @@ namespace GameStore.Models.Repository
                     },
                     new Game
                     {
-                        GameId = 2,
+                        GameId = 22,
                         Name = "Battlefield 4",
                         Description = "Battlefield 4 to definiująca gatunek, pełna akcji gra akcji znana z niezrównanej możliwości zniszczenia.",
                         Category = "Shooter",
@@ -31,7 +31,7 @@ namespace GameStore.Models.Repository
                     },
                     new Game
                     {
-                        GameId = 3,
+                        GameId = 33,
                         Name = "The Elder Scrolls V",
                         Description = "Po zabójstwie króla Skyrim imperium znalazło się na krawędzi katastrofy. Nowe sojusze zgromadziły się wokół pretendentów do tronu, i wybuchł konflikt. Ponadto, jak przepowiadały starożytne zwoje, na świat powróciły okrutne i bezlitosne smoki. Teraz przyszłość Skyrim i wszystkich imperium zależy od smoczego dziecka – człowieka, w którego żyłach płynie krew legendarnych stworzeń.",
                         Category = "RPG",
@@ -39,7 +39,7 @@ namespace GameStore.Models.Repository
                     },
                     new Game
                     {
-                        GameId = 4,
+                        GameId = 41,
                         Name = "Dark Souls II",
                         Description = "Kontynuacja słynnej akcji RPG ponownie zmusi graczy do przejścia przez najtrudniejsze testy. Dark Souls II zaoferuje nowy bohater, nowa historia i nowy świat. Tylko jedno jest niezmienne – przetrwanie w ponurym uniwersum Dark Souls jest bardzo trudne.",
                         Category = "RPG",
@@ -47,7 +47,7 @@ namespace GameStore.Models.Repository
                     },
                     new Game
                     {
-                        GameId = 5,
+                        GameId = 54,
                         Name = "Dead Space 3",
                         Description = "W Dead Space 3 Isaac Clarke i twardy żołnierz John Carver wyruszają w kosmiczną podróż, aby poznać pochodzenie Nekromorfów.",
                         Category = "Shooter",
