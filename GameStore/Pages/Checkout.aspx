@@ -49,7 +49,7 @@
         </p>
         </div>
         <div id="checkoutMessage" runat="server">
-            <h2>Dziękijemy!</h2>
+            <h2>Dziękujemy!</h2>
             Dziękujemy za wybranie naszego sklepu! Postaramy się jak najszybciej wysłać Twoje zamówienie.
         </div>
     </div>
